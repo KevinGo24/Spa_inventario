@@ -59,7 +59,7 @@ Utiliza los siguientes datos de inicio de sesión para evaluar las característi
 
 | Rol | Correo Electrónico (Email) | Contraseña (Password) |
 | :--- | :--- | :--- |
-| **Administrador** | `Admin@admin.com` | `123456` |
+| **Administrador** | `Administrador@admin.com` | `123456` |
 
 ---
 
