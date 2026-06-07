@@ -14,12 +14,12 @@ Este es un aplicativo de sistema de inventario diseñado como un simulador de Fr
 ## 📸 Capturas de Pantalla
 
 <p align="center">
-  <img width="45%" alt="Vista Login" src="https://github.com/user-attachments/assets/3a598058-5618-4a5b-b728-9c476bf7e199" style="border-radius: 20px; margin: 5px;" />
+  <img width="400" height="400" border-radius="20" alt="Vista Login" src="https://github.com/user-attachments/assets/3a598058-5618-4a5b-b728-9c476bf7e199" style="border-radius: 20px; margin: 5px;" />
   <img width="45%" alt="Vista Dashboard" src="https://github.com/user-attachments/assets/e67ff5dc-9e3e-4624-bcc6-d533638c480d" style="border-radius: 20px; margin: 5px;" />
 </p>
 <p align="center">
-  <img width="45%" alt="Gestión de Inventario" src="https://github.com/user-attachments/assets/83236e04-c8c2-4a7a-9b51-aaa0884b6d28" style="border-radius: 20px; margin: 5px;" />
-  <img width="45%" alt="Reportes de Productos" src="https://github.com/user-attachments/assets/0a686582-80ff-4874-828d-fb70e8e1c902" style="border-radius: 20px; margin: 5px;" />
+  <img width="400" height="400" border-radius="20" alt="Gestión de Inventario" src="https://github.com/user-attachments/assets/83236e04-c8c2-4a7a-9b51-aaa0884b6d28" style="border-radius: 20px; margin: 5px;" />
+  <img width="400" height="400" border-radius="20" alt="Reportes de Productos" src="https://github.com/user-attachments/assets/0a686582-80ff-4874-828d-fb70e8e1c902" style="border-radius: 20px; margin: 5px;" />
 </p>
 
 ---
