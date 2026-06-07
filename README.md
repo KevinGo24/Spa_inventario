@@ -49,3 +49,27 @@ Para probar las funciones de administrador en el inventario del Spa, utiliza los
 | Rol | Correo Electrónico (Email) | Contraseña (Password) |
 | :--- | :--- | :--- |
 | **Administrador** | `Admin@admin.com` | `123456` |
+
+## dashboard
+ la dashboard contiene los siguiente elementos
+
+ 1- dashboard
+ 2- producto
+ 3- entrada
+ 4- salida
+ 5- usuarios
+```txt
+ # ADMINISTRADOR
+  el administador solo tiene permiso a las 5 funciones de la dashboard
+      1- dashboard
+      2- producto
+      3- entrada
+      4- salida
+      5- usuarios
+# USUARIO O CLIENTE
+ el suario solo puede acceder a las siguientes funciones 
+      1- producto
+      2- entrada
+      3- salida
+      4- usuarios
+```
