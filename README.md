@@ -6,4 +6,10 @@ Esta es un aplicativo de sistema de inventario en la cual esta echo con VITE com
  <img  width="400" height="400" border-radius="20px" alt="image" src="https://github.com/user-attachments/assets/83236e04-c8c2-4a7a-9b51-aaa0884b6d28" />
 <img  width="400" height="400" border-radius="20px" alt="image" src="https://github.com/user-attachments/assets/0a686582-80ff-4874-828d-fb70e8e1c902" />
 
+## Como instalar el proyecto
 
+´´´ text
+## isntalar node modules
+npm install 
+
+´´´
